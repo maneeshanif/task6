@@ -9,12 +9,12 @@ const Logosection = () => {
       <div className=' flex items-center justify-center'>
       <div className='  grid grid-cols-2  w-[300px] md:w-[1000px]   md:grid-cols-6 gap-2 items-center justify-center'> 
    
-         <Image src="/images/logo1.png" alt=""  width={880} height={56}/>
-         <Image src="/images/logo2.png" alt=""  width={880} height={56}/>
-         <Image src="/images/logo3.png" alt=""  width={880} height={56}/>
-         <Image src="/images/logo4.png" alt=""  width={880} height={56}/>
-         <Image src="/images/logo5.png" alt=""  width={880} height={56}/>
-         <Image src="/images/logo6.png" alt=""  width={880} height={56}/>
+         <Image src="/images/Logo1.png" alt=""  width={880} height={56}/>
+         <Image src="/images/Logo2.png" alt=""  width={880} height={56}/>
+         <Image src="/images/Logo3.png" alt=""  width={880} height={56}/>
+         <Image src="/images/Logo4.png" alt=""  width={880} height={56}/>
+         <Image src="/images/Logo5.png" alt=""  width={880} height={56}/>
+         <Image src="/images/Logo6.png" alt=""  width={880} height={56}/>
         
       </div>
       </div>
