@@ -32,7 +32,7 @@ export default function Navbar() {
             <button className=" h-[42px] w-[90px] bg-black text-white rounded-md border-2 border-black px-[10px] py-2 text-[16px]">Sign Up</button>
           </div>
         </div>
-          <div className="md:hidden flex">
+          <div className="md:hidden flex text-black ">
           <button onClick={toggleMenu}>
           {isOpen ?<RxCross1 size={24} />:<LuAlignJustify size={24} />  }
           </button>

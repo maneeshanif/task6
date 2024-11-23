@@ -89,7 +89,7 @@ const Courses = () => {
           </div>
         ))}
          </div>
-        <button className='text-[16px] py-[17px] px-[32px] mr-4 border-[2px] border-black  rounded-md '>View All Courses</button>
+        <button className='text-[16px] text-black py-[17px] px-[32px] mr-4 border-[2px] border-black  rounded-md '>View All Courses</button>
 
 
 
